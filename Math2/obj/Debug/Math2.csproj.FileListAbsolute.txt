@@ -1,0 +1,6 @@
+F:\Users\Marcsquiskeeiey\TechAcademy\Math2\Math2\bin\Debug\Math2.exe.config
+F:\Users\Marcsquiskeeiey\TechAcademy\Math2\Math2\obj\Debug\Math2.csprojResolveAssemblyReference.cache
+F:\Users\Marcsquiskeeiey\TechAcademy\Math2\Math2\bin\Debug\Math2.exe
+F:\Users\Marcsquiskeeiey\TechAcademy\Math2\Math2\bin\Debug\Math2.pdb
+F:\Users\Marcsquiskeeiey\TechAcademy\Math2\Math2\obj\Debug\Math2.exe
+F:\Users\Marcsquiskeeiey\TechAcademy\Math2\Math2\obj\Debug\Math2.pdb
